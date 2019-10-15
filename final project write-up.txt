@@ -2,7 +2,7 @@ Final project. Python Basics
 
 Polina Artemeva
 
-The goal of my project was to create a programme that would break a text into a list of words and then transcribe it according to some rules of phonetical transcription. After the dictionary has been done two different functions allow to output either keys or values of the dictionary. Also the programme can help user to transcribe a word they like, that's why there is a small part of interactive code. 
+The goal of my project was to create a programme that would break a text into a list of words and then transcribe it according to some rules of phonetical transcription. Then the dictionary of the first list and the second one should be created. After that two different functions allow to output either keys or values of the dictionary. Also the programme can help user to transcribe a word they like, that's why there is a small part of interactive code. 
 As a base I took the function Tokenize. Then I created the function Transcription that took most of my time. And then two small easy functions for outputting the keys of values, they are called Keys and Values accordingly.
-While Tokenize, Keys and Values are functions that work fine, Transcription is far from perfect. It is not perfet in terms of difficulty of the English phonetic transcription rules and because of alongside those rules there are a lot of exceptions as well.
+While Tokenize, Keys and Values are functions that work fine, Transcription is far from perfect. It works poorly in terms of difficulty of the English phonetic transcription rules and because of the fact that alongside those rules there are a lot of exceptions as well. Unfortunately, I was unable to create a proper function that would make a dictionary out of two lists, so that is what can be improved, too.
 In the future, of course, better ways of accomplishing this goal should be found. But for now, I hope this is okay.
